@@ -12,6 +12,8 @@
 
 pubspec.lock
 
+Makefile
+
 # iOS and macOS dependencies
 .build/
 Podfile.lock
